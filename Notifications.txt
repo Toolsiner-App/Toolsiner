@@ -1,0 +1,1 @@
+[ { "عکس": "https://s3.uupload.ir/files/toolsiner/Notification/Notification2.jpg", "پیغام": "برنامه ابزارینر|Toolsiner در بازار(در حال بررسی .....) ،\n\nبزودی میتوانید برنامه را از طریق بازار دریافت کنید", "تاریخ": "1400/4/24", "ساعت": "22:22", "تست": "F", "لینک": "https://myket.ir/app/Toolsiner.Mobile" } ]
